@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790327885 source:d:\Список Лабораторних інфа\частина 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
